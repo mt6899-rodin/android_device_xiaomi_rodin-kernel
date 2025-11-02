@@ -1,5 +1,3 @@
-bootprof.ko
-bootmonitor.ko
 mrdump.ko
 aee_aed.ko
 monitor_hang.ko
@@ -21,7 +19,6 @@ device-apc-common.ko
 device-apc-mt6899.ko
 mtk-mbox-mailbox.ko
 tinysys-scmi.ko
-miev.ko
 wlan_page_pool.ko
 pinctrl-mtk-v2.ko
 pinctrl-mt6899.ko
@@ -131,9 +128,6 @@ rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
 blocktag.ko
-mi_memory.ko
-mpbe.ko
-hwid.ko
 pidmap.ko
 mtk-pmic-keys.ko
 mtk-i3c-i2c-wrap.ko
@@ -209,12 +203,3 @@ last_bus.ko
 dbg_error_flag.ko
 cache-parity.ko
 systracker.ko
-crash_module.ko
-mtd_blkdevs.ko
-ofpart.ko
-mtdoops.ko
-block2mtd.ko
-chipreg.ko
-mtdblock.ko
-mtd.ko
-debug_ext.ko

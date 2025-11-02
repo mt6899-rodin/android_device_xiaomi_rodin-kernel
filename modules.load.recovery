@@ -1,5 +1,3 @@
-bootprof.ko
-bootmonitor.ko
 mrdump.ko
 aee_aed.ko
 monitor_hang.ko
@@ -10,7 +8,6 @@ mtk_sync.ko
 mtk_disp_notify.ko
 zsmalloc.ko
 zram.ko
-mi_mem_engine.ko
 log_store.ko
 mtk_printk_ctrl.ko
 nvmem_mtk-devinfo.ko
@@ -22,7 +19,6 @@ device-apc-common.ko
 device-apc-mt6899.ko
 mtk-mbox-mailbox.ko
 tinysys-scmi.ko
-miev.ko
 wlan_page_pool.ko
 pinctrl-mtk-v2.ko
 pinctrl-mt6899.ko
@@ -132,9 +128,6 @@ rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
 blocktag.ko
-mi_memory.ko
-mpbe.ko
-hwid.ko
 simtray.ko
 pidmap.ko
 mtk-pmic-keys.ko
@@ -221,19 +214,4 @@ mtk_tinysys_ipi.ko
 sec.ko
 uload_ind.ko
 load_track.ko
-crash_module.ko
-sla.ko
-miwill.ko
-miwill_mode_redudancy.ko
-minet.ko
-mtd_blkdevs.ko
-ofpart.ko
-mtdoops.ko
-block2mtd.ko
-chipreg.ko
-mtdblock.ko
-mtd.ko
-perf_helper.ko
-debug_ext.ko
 kshrink_slabd.ko
-xiaomi_wifi_gpio.ko
